@@ -151,7 +151,7 @@ class Configs(BaseConfigs):
             # Train the model
             self.train()
             # Sample some images
-            self.sample()
+            #self.sample()
             # New line in the console
             tracker.new_line()
             # Save the model
